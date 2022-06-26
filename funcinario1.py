@@ -1,7 +1,5 @@
 from funcoes_funcionario import *
+"""começo do meu loop com imformaçoes pessoais
+    imposto e salario liquido"""
 
-informacoes = dados_funcionario()
-print(informacoes[3])
-
-
-imposto(informacoes[3])
+menu()
